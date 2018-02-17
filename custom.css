@@ -1,0 +1,119 @@
+body {
+  padding-top: 2rem;
+  font-family: 'Muli', sans-serif;
+  background-color: #EDEBED;
+}
+
+.row {
+  margin-bottom: 1rem;
+  font-family: 'Muli', sans-serif;
+}
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  font-family: 'Muli', sans-serif;
+}
+[class*="col-"] {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-family: 'Muli', sans-serif;
+}
+
+[class*="-success"] {
+  background-color: #59bb2f !important;
+}
+
+.dropdown-item.active, a:active.dropdown-item {
+  background-color: #59bb2f !important;
+}
+
+.card-footer a::before, li a.btn-link::before, li a.nav-link::before {
+    content: "›";
+    font-weight: 800;
+    color: #59bb2f !important;
+    font-size: 2.0rem;
+    display:inline-block;
+    position: relative !important;
+    top: 2px !important;
+    left: -5px !important;
+    text-decoration: none !important;
+}
+
+.card-footer a, li a, li a.btn-link, li a.nav-link, .card-footer a:link, li a:link, li a:link.btn-link, li a:link.nav-link, .card-footer a:active, li a:active, li a:active.btn-link, li a:active.nav-link {
+    font-weight: 800;
+    color: #59bb2f !important;
+    padding:0 0 0 0 !important;
+    margin:0 0 0 0 !important;
+    font-size: 1.1rem !important;
+    text-decoration: none !important;
+}
+
+.card-footer a:hover, li a:hover, li a.btn-link:hover, li a.nav-link:hover {
+  color: #59bb2f !important;
+  text-decoration: underline !important;
+}
+
+#footer-links a {
+  font-weight: normal;
+  color:#fff !important;
+}
+#footer-links ul {
+  list-style:none;
+  padding-left:0;
+}
+/*
+@media (max-width: 575.98px) {
+  .d-4 {
+    font-size: 1.15rem;
+    color: #352F39;
+  }
+  .d-5 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .d-4 {
+    font-size: 1.15rem;
+    color: #352F39;
+  }
+  .d-5 {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .d-4 {
+    font-size: 1.55rem;
+    color: #352F39;
+  }
+  .d-5 {
+    width: 1.65rem;
+    height: 1.65rem;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .d-4 {
+    font-size: 2.1rem;
+    color: #352F39;
+  }
+  .d-5 {
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .d-4 {
+    font-size: 2.5rem;
+    color: #352F39;
+  }
+  .d-5 {
+    width: 2.7rem;
+    height: 2.7rem;
+  }
+}
+*/

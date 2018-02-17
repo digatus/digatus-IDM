@@ -1,0 +1,17 @@
+body {
+  font-family: 'Muli', sans-serif;
+  background-color: #EDEBED;
+}
+
+.dropdown-item.active, a:active.dropdown-item {
+  background-color: #59bb2f !important;
+}
+
+#footer-links a {
+  font-weight: normal;
+  color:#fff !important;
+}
+#footer-links ul {
+  list-style:none;
+  padding-left:0;
+}
