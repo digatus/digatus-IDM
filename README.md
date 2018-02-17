@@ -48,7 +48,7 @@ These short links may be shared to refer to the IDM pages:
 - IT support: [digat.us/IT-support](https://s.digat.us/IT-support)
 - Benutzer Onboarding (in german): [digat.us/Willkommen](https://s.digat.us/Willkommen)
 - Benutzer ID Portal (in german): [digat.us/Konto](https://s.digat.us/Konto)
-- IT Hilfe (in german): [digat.us/IT-Hilfe](https://s.digat.us/IT-Hilfe)
+- IT Support (in german): [digat.us/IT-Hilfe](https://s.digat.us/IT-Hilfe)
 
 Please note that whenever you may refer from any web pages or IT services in particular, you should not use the domain digat.us but instead s.digat.us together with the https:// prefix. That way we can ensure that from any IT maintained web pages there is no possibility for man-in-the-middle attacks to redirect users to any fraudulent pages. This is crucial for proper identity management.
 
