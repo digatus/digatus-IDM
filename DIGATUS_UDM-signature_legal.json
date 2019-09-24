@@ -1,0 +1,119 @@
+{
+  "digatus it group AG": {
+    "address": {
+      "street": "Elsenheimerstraße 61",
+      "zip": "80687",
+      "location": "München",
+    },
+    "promo": [
+      {
+        "name": "visit digatus.de",
+        "url": "https://www.digatus.de/",
+        "html": "<a href='https://www.digatus.de' style='color: #59BB2F; text-decoration: none;'><strong>visit digatus.de</strong></a>",
+      },
+      {
+        "name": "XING",
+        "url": "https://www.xing.com/companies/digatus/updates",
+        "html": "<a href='https://www.xing.com/companies/digatus/updates' style='color: #005a5f; text-decoration: none;'><strong>XING</strong></a>",
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/10949771/",
+        "html": "<a href='https://www.linkedin.com/company/10949771/' style='color: #000000; text-decoration: none;'><strong>Linked<font style='color: #0077b5;'>In</strong></font></a>",
+      },
+    ],
+    "legal": [
+      "digatus it group AG - Sitz der Gesellschaft: München / Registergericht: München",
+      "HRB 216715; USt.ID: DE 298 857 035",
+      "Vorstand: Stephan Bals (Vorsitz), Felix Kirschner",
+      "Aufsichtsrat: Karl Bals (Vorsitz), Manfred Dietlmeier, Alexander Schewtschenko, Dr. Albrecht Schleich"
+    ],
+  },
+  "digatus it consulting GmbH": {
+    "address": {
+      "street": "Elsenheimerstraße 61",
+      "zip": "80687",
+      "location": "München",
+    },
+    "promo": [
+      {
+        "name": "visit digatus.de",
+        "url": "https://www.digatus.de/",
+        "html": "<a href='https://www.digatus.de' style='color: #59BB2F; text-decoration: none;'><strong>visit digatus.de</strong></a>",
+      },
+      {
+        "name": "XING",
+        "url": "https://www.xing.com/companies/digatus/updates",
+        "html": "<a href='https://www.xing.com/companies/digatus/updates' style='color: #005a5f; text-decoration: none;'><strong>XING</strong></a>",
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/10949771/",
+        "html": "<a href='https://www.linkedin.com/company/10949771/' style='color: #000000; text-decoration: none;'><strong>Linked<font style='color: #0077b5;'>In</strong></font></a>",
+      },
+    ],
+    "legal": [
+      "digatus it consulting GmbH - Sitz der Gesellschaft: München / Registergericht: München",
+      "HRB 219543; USt.ID: DE 294 485 236",
+      "Geschäftsführer: Ralf Hildebrand, Marc von Jaduczynski"
+    ],
+  },
+  "digatus software GmbH": {
+    "address": {
+      "street": "Elsenheimerstraße 61",
+      "zip": "80687",
+      "location": "München",
+    },
+    "promo": [
+      {
+        "name": "visit digatus.de",
+        "url": "https://www.digatus.de/",
+        "html": "<a href='https://www.digatus.de' style='color: #59BB2F; text-decoration: none;'><strong>visit digatus.de</strong></a>",
+      },
+      {
+        "name": "XING",
+        "url": "https://www.xing.com/companies/digatus/updates",
+        "html": "<a href='https://www.xing.com/companies/digatus/updates' style='color: #005a5f; text-decoration: none;'><strong>XING</strong></a>",
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/10949771/",
+        "html": "<a href='https://www.linkedin.com/company/10949771/' style='color: #000000; text-decoration: none;'><strong>Linked<font style='color: #0077b5;'>In</strong></font></a>",
+      },
+    ],
+    "legal": [
+      "digatus software GmbH - Sitz der Gesellschaft: Augsburg / Registergericht: Augsburg",
+      "HRB 30769; USt.ID: DE 307 492 308",
+      "Geschäftsführer: Alexander Tobias"
+    ],
+  },
+  "digatus it services GmbH": {
+    "address": {
+      "street": "Gögginger Straße 49",
+      "zip": "86159",
+      "location": "Augsburg",
+    },
+    "promo": [
+      {
+        "name": "visit digatus.de",
+        "url": "https://www.digatus.de/",
+        "html": "<a href='https://www.digatus.de' style='color: #59BB2F; text-decoration: none;'><strong>visit digatus.de</strong></a>",
+      },
+      {
+        "name": "XING",
+        "url": "https://www.xing.com/companies/digatus/updates",
+        "html": "<a href='https://www.xing.com/companies/digatus/updates' style='color: #005a5f; text-decoration: none;'><strong>XING</strong></a>",
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/10949771/",
+        "html": "<a href='https://www.linkedin.com/company/10949771/' style='color: #000000; text-decoration: none;'><strong>Linked<font style='color: #0077b5;'>In</strong></font></a>",
+      },
+    ],
+    "legal": [
+      "digatus it services GmbH - Sitz der Gesellschaft: Augsburg / Registergericht: Augsburg",
+      "HRB 30489; USt.ID: DE 206 523 019",
+      "Geschäftsführer: Sascha Arnold, Alexander Tobias"
+    ],
+  },
+}
